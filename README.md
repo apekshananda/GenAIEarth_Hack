@@ -30,8 +30,34 @@ response = client.chat.completions.create(
   ]
 )
 ```
+Solution Description:
+  Definition: A concise one or two-word description that captures the essence of the proposed solution or startup idea.
+  Purpose: To provide a quick and focused overview, allowing users to grasp the nature of the solution at a glance.
 
+Risk:
+  Definition: An assessment of the level of risk associated with the startup idea, categorized as high, medium, or low.
+  Purpose: To inform investors about potential challenges or uncertainties related to the idea, aiding in risk management and decision-making.
 
+Competition:
+  Definition: Identification of other companies or organizations that operate with similar principles or offer comparable solutions.
+  Purpose: To understand the competitive landscape and potential market saturation, helping investors gauge uniqueness and market positioning.
+
+Investable:
+  Definition: A recommendation on whether investors should consider investing in the startup idea or not.
+  Purpose: To guide investors in making informed decisions based on the overall evaluation of the idea's potential for success.
+
+Potential Optimizations:
+  Definition: Suggestions for potential improvements or optimizations that could enhance the viability or efficiency of the startup idea.
+  Purpose: To provide constructive feedback to entrepreneurs and investors, encouraging continuous improvement and innovation.
+
+Spam:
+  Definition: A binary classification (yes or no) indicating whether the idea is a genuine, viable concept or if it might be considered spam or irrelevant.
+  Purpose: To filter out non-serious or non-sustainable ideas, ensuring a focused evaluation process.
+
+Sustainable:
+  Definition: Assessment of whether the startup idea aligns with principles of sustainability, particularly within the context of the circular economy.
+  Purpose: To evaluate the long-term environmental, social, and economic impact of the idea, supporting sustainable development goals.
+These parameters collectively provide a holistic evaluation framework, addressing key aspects ranging from the nature of the solution to its potential impact and alignment with sustainability principles.
 
 
 
