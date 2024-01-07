@@ -31,37 +31,37 @@ response = client.chat.completions.create(
   ]
 )
 ```
-Solution Description:   
+## Solution Description:   
 Definition: A concise one or two-word description that captures the essence of the proposed solution or startup idea.  
   Purpose: To provide a quick and focused overview, allowing users to grasp the nature of the solution at a glance.
 
-Risk:   
+## Risk:   
 Definition: An assessment of the level of risk associated with the startup idea, categorized as high, medium, or low.  
   Purpose: To inform investors about potential challenges or uncertainties related to the idea, aiding in risk management and decision-making.      
   High:  Significant regulatory, environmental, or market challenges pose substantial risks to the success of the solution  
   Medium: There are identifiable risks, but they are manageable with careful planning and execution.    
   Low: Minimal risks or robust strategies are in place to mitigate potential challenges effectively.
 
-Competition:    
+### Competition:    
 Definition: Identification of other companies or organizations that operate with similar principles or offer comparable solutions.    
   Purpose: To understand the competitive landscape and potential market saturation, helping investors gauge uniqueness and market positioning.  
   High: Numerous competitors with similar principles exist, indicating a crowded market.    
   Medium: Some competition is present, but the solution maintains differentiating factors.  
   Low: Limited or no direct competitors with comparable principles, suggesting a potentially unique offering.
 
-Investable:     
+### Investable:     
 Definition: A recommendation on whether investors should consider investing in the startup idea or not.   
   Purpose: To guide investors in making informed decisions based on the overall evaluation of the idea's potential for success.
 
-Potential Optimizations:    
+### Potential Optimizations:    
 Definition: Suggestions for potential improvements or optimizations that could enhance the viability or efficiency of the startup idea.   
   Purpose: To provide constructive feedback to entrepreneurs and investors, encouraging continuous improvement and innovation.
 
-Spam:   
+### Spam:   
 Definition: A binary classification (yes or no) indicating whether the idea is a genuine, viable concept or if it might be considered spam or irrelevant.     
   Purpose: To filter out non-serious or non-sustainable ideas, ensuring a focused evaluation process.
 
-Sustainable:    
+### Sustainable:    
 Definition: Assessment of whether the startup idea aligns with principles of sustainability, particularly within the context of the circular economy.   
 Purpose: To evaluate the long-term environmental, social, and economic impact of the idea, supporting sustainable development goals.
 These parameters collectively provide a holistic evaluation framework, addressing key aspects ranging from the nature of the solution to its potential impact and alignment with sustainability principles.
@@ -77,19 +77,24 @@ The AI assistant showcased unexpected creativity in generating optimization reco
 - Programming Language:Python 
 
 ## Future Prospects
-Advanced Model Integration:
+### Advanced Model Integration:
 Explore the integration of more advanced language models beyond GPT-3.5 Turbo as they become available. Stay abreast of research breakthroughs and continually upgrade the underlying AI architecture for enhanced natural language understanding.  
 
-User Customization Features:
+### User Customization Features:
 Develop a user customization module allowing investors to tailor the AI assistant's analysis based on specific criteria, preferences, and industry focus. This customization will enhance the tool's adaptability to diverse investment strategies.     
 
-Extended Parameter Analysis:
+### Extended Parameter Analysis:
 Expand the parameterized analysis to include additional dimensions, such as social impact, scalability, and market trends. User feedback will be crucial in identifying relevant parameters for a more comprehensive startup evaluation.    
 
-Collaborative Decision Support:
+### Collaborative Decision Support:
 Implement features supporting collaborative decision-making among investment teams. Real-time collaboration tools, discussion forums, and shared dashboards will facilitate efficient group evaluations of sustainable startup ideas.   
 
-Integration with External APIs:
+### Integration with External APIs:
 Explore partnerships and integrations with external data providers, such as environmental impact databases, market trend analytics, and regulatory compliance sources. This will enhance the AI assistant's contextual awareness and improve the accuracy of its predictions.
 
-The integration of speech-to-text (STT) and text-to-speech (TTS) functionalities is a significant step forward in achieving a more versatile and user-friendly experience. 
+The integration of speech-to-text (STT) and text-to-speech (TTS) functionalities is a significant step forward in achieving a more versatile and user-friendly experience.
+
+## Limitations
+
+Due to lack of resources as our OpenAI account was free and trail based we were bound by 3 request per minute.
+
